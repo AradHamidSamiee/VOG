@@ -1,0 +1,9 @@
+D:\Projects Courses\ASP.net by C#  Projects\VOG maker\vog_maker\vog_maker\bin\Debug\vog_maker.exe.config
+D:\Projects Courses\ASP.net by C#  Projects\VOG maker\vog_maker\vog_maker\bin\Debug\vog_maker.exe
+D:\Projects Courses\ASP.net by C#  Projects\VOG maker\vog_maker\vog_maker\bin\Debug\vog_maker.pdb
+D:\Projects Courses\ASP.net by C#  Projects\VOG maker\vog_maker\vog_maker\obj\Debug\vog_maker.csprojResolveAssemblyReference.cache
+D:\Projects Courses\ASP.net by C#  Projects\VOG maker\vog_maker\vog_maker\obj\Debug\vog_maker.Form1.resources
+D:\Projects Courses\ASP.net by C#  Projects\VOG maker\vog_maker\vog_maker\obj\Debug\vog_maker.Properties.Resources.resources
+D:\Projects Courses\ASP.net by C#  Projects\VOG maker\vog_maker\vog_maker\obj\Debug\vog_maker.csproj.GenerateResource.Cache
+D:\Projects Courses\ASP.net by C#  Projects\VOG maker\vog_maker\vog_maker\obj\Debug\vog_maker.exe
+D:\Projects Courses\ASP.net by C#  Projects\VOG maker\vog_maker\vog_maker\obj\Debug\vog_maker.pdb
